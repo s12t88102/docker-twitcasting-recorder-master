@@ -1,0 +1,3 @@
+[submodule "twitcasting-recorder"]
+	path = twitcasting-recorder
+	url = https://github.com/jim60105/twitcasting-recorder.git
