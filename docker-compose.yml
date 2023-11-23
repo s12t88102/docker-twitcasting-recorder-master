@@ -9,7 +9,7 @@ services:
       - .env
     volumes:
       - ${ARCHIVE}:/download
-    command: ${TWITCASTING_ID}
+    command: ${niconini11369}
     # logging:
     #   driver: "gelf"
     #   options:
